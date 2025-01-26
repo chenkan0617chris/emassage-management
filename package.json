@@ -14,7 +14,8 @@
     "@nextui-org/table": "^2.2.8",
     "@nextui-org/theme": "^2.4.5",
     "dotenv": "^16.4.7",
-    "framer-motion": "^11.16.3",
+    "framer-motion": "^11.18.2",
+    "lucide-react": "^0.474.0",
     "next": "15.1.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
